@@ -291,7 +291,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5AQYUURPL7;
+				DEVELOPMENT_TEAM = 27R6MUVRNU;
 				INFOPLIST_FILE = BLE_Swift_SampleProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -309,7 +309,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5AQYUURPL7;
+				DEVELOPMENT_TEAM = 27R6MUVRNU;
 				INFOPLIST_FILE = BLE_Swift_SampleProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
